@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<produto codigo="1" preco1="11" preco2="12" preco3="13"/>
+	<produto codigo="2" preco1="21" preco2="22" preco3="23"/>
+</dataset>

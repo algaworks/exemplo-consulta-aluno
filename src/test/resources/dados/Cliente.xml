@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<cliente codigo="1" nome="João" tabela_preco_padrao="1"/>
+	<cliente codigo="2" nome="Maria" tabela_preco_padrao="2" />
+</dataset>
